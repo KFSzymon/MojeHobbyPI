@@ -1,0 +1,458 @@
+body
+{
+	background-color:#291a18;
+}
+
+#rama
+{
+	background-color:#FFD700;
+	margin:10px;
+}
+
+#container
+{
+	background-color: #e8dfb5;
+	margin-left:1px;
+	margin-right:1px;
+	margin-top:10px;
+	margin-bottom:1px;
+	height:890px;
+	max-width:1890px;
+}
+
+#tytuł
+{
+	text-align: center;
+	font-size:75px;
+	color:#595555;
+	margin-left:600px;
+	margin-right:600px;
+}
+
+#topbar
+{
+	padding: 15px;
+	margin-top: 30px;
+	height: 700px;
+	background-color:#750606;
+	margin-left:20px;
+	margin-right:20px;
+	max-width:1850px;
+	max-height:870px;
+}
+
+#wybór
+{
+	text-align:center;
+    text-decoration:none;
+	background-color:#750606;
+	min-height:125px;
+	margin-left:120px;
+	margin-right:120px;
+	margin-top:15px;
+}
+
+.option1
+{
+	color:#ffd500;
+	padding:40px;
+	max-width: 1000px;
+	height: 40px;
+	font-size:50px;
+	margin-top:25px;
+	margin-bottom:25px;
+	text-decoration:none;
+	opacity: 0.8;
+	text-align:center;
+}
+.option1:hover
+{
+	cursor: pointer;
+	border:5px outset #ffd500;
+	background-color: #e3dec5;
+	color:#d4b200;
+}
+
+#topbarKL
+{
+	float:left;
+	padding: 20px;
+	background-color:#000000;
+}
+
+#topbarKP
+{
+	float:right;
+	padding: 20px;
+	background-color:#000000;
+}
+
+.MK
+{
+	padding:2px;
+	background-color:#ffffff;
+}
+
+#topbarM
+{
+	padding: 20px;
+	max-width: 1000px;
+	font-size: 16px;
+	background-color:#bfbba6;
+	height:660px;
+	margin-left:480px;
+	margin-right:480px;
+}
+
+#zdj
+{
+	float:right;
+}
+
+.option
+{
+	color:#ffd500;
+	padding:20px;
+	height: 25px;
+	font-size: 35px;
+	MARGIN-TOP:25PX;
+	text-align:justify;
+	float:left;
+	margin-left:250px;
+}
+
+.option:hover
+{
+	cursor: pointer;
+	background-color: #960606;
+	border:5px outset #ffd500;
+	color:#d4b200;
+}
+
+#stopa
+{
+	color:white;
+	max-height:20px;
+	text-decoration:none;
+	text-align:center;
+}
+
+a.pod{
+	text-decoration:none;
+}
+
+a.pod1{
+	text-decoration:none;
+	color:#d9ed77;
+}
+
+a.pod2{
+	text-decoration:none;
+	color:#636058;
+}
+
+#CG
+{
+	margin:20px;
+	background-color:#bfbba6;
+	height:615px;
+}
+
+.TG
+{
+	padding:15px;
+	font-size:26px;
+	text-align:center;
+}
+
+#ZDJ2
+{
+ float:left;
+ background-color:#000000;
+ margin-bottom:20px;
+ margin-top:70px;
+ margin-left:20px;
+ height:457px;
+ width:301px;
+ padding:20px;
+}
+
+.MK2
+{
+	background-color:#ffffff;
+	height:458px;
+	width:300px;
+	border:2px solid #ffffff;
+}
+
+ #tekstgry
+ {
+	height:521px;
+	width:1405px;
+	background-color:#e3dec5;
+	float:right;
+	margin:20px;
+	color:#4a4946;
+ }
+#OBRAZwtekstgry
+{
+	background-color:#dbd0b2;
+	height:294px;
+	width:660px;
+	margin:15px;
+	color:#636058;
+	font-size:50px;
+	float:left;
+	text-align:center;
+}
+
+#OBRAZwtekstgry2
+{
+	background-color:#dbd0b2;
+	height:294px;
+	width:660px;
+	margin:15px;
+	color:#636058;
+	font-size:50px;
+	float:right;
+	text-align:center;
+}
+
+.gryy
+{
+	padding:5px;
+	margin:15px;
+	border:5px outset #ffd500;
+}
+
+.gryy:hover
+{
+	padding:5px;
+	margin:15px;
+	border:5px outset #ffd500;
+	background-color:#e3dec5;
+}
+
+.gryy2
+{
+	padding:5px;
+	margin:15px;
+	border:5px outset #ffd500;
+}
+
+.gryy2:hover
+{
+	padding:5px;
+	margin:15px;
+	border:5px outset #ffd500;
+	background-color:#e3dec5;
+}
+
+#OBRAZwSPORT
+{
+	height:360px;
+	width:1365px;
+	margin:20px;
+	background-color:#dbd0b2;
+	float:left;
+	text-align:center;
+	font-size:50px;	
+}
+
+.gryy3
+{
+	padding:5px;
+	margin:15px;
+	border:5px outset #ffd500;
+	margin-top:30px;
+	width:1185px;
+	margin-left:70px;
+	margin-right:60px;
+}
+
+.gryy3:hover
+{
+		padding:5px;
+	margin:15px;
+	border:5px outset #ffd500;
+	margin-top:30px;
+	width:1185px;
+	margin-left:70px;
+	margin-right:60px;
+	background-color:#e3dec5;
+}
+
+#KoM
+{
+	height:360px;
+	width:1365px;
+	margin:20px;
+	background-color:#dbd0b2;
+	float:left;
+	text-align:center;
+	font-size:35px;	
+}
+
+.gryy4
+{
+	padding:5px;
+	margin:10px;
+	border:5px outset #ffd500;
+	margin-top:10px;
+	width:1185px;
+	margin-left:70px;
+	margin-right:60px;
+}
+
+.gryy4:hover
+{
+	padding:5px;
+	margin:10px;
+	border:5px outset #ffd500;
+	margin-top:10px;
+	width:1185px;
+	margin-left:70px;
+	margin-right:60px;
+	background-color:#e3dec5;
+}
+
+.TG2
+{
+	padding:15px;
+	font-size:45px;
+	text-align:center;
+}
+
+#wróćpodstrona
+{
+	background-color:#ffffff;
+	padding:10px;
+	height:10px;
+	width:75px;
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+	text-align:center;
+	border:2px outset #000000;
+}
+
+#wróćpodstrona:hover
+{
+	background-color:#b3b1ab;
+	padding:10px;
+	height:10px;
+	width:75px;
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+	text-align:center;
+	border:2px outset #000000;
+}
+
+ #tekstgryG
+ {
+	height:570px;
+	width:1405px;
+	background-color:#e3dec5;
+	float:right;
+	margin:20px;
+	color:#4a4946;
+ }
+ 
+ .TG1Z
+{
+	padding:15px;
+	font-size:45px;
+	text-align:center;
+}
+
+.TG1LoL
+{
+	padding:15px;
+	font-size:38px;
+	text-align:center;
+}
+
+.TG1Bl
+{
+	padding:15px;
+	font-size:48px;
+	text-align:center;
+}
+
+.TG1P
+{
+	padding:15px;
+	font-size:50px;
+	text-align:center;
+}
+
+.TG1LE
+{
+	padding:15px;
+	font-size:54px;
+	text-align:center;
+}
+
+.TG1MA
+{
+	padding:15px;
+	font-size:43px;
+	text-align:center;
+}
+
+.TG2K
+{
+	padding:15px;
+	font-size:37px;
+	text-align:center;
+}
+
+.TG2S
+{
+	padding:15px;
+	font-size:56px;
+	text-align:center;
+}
+
+.TG2P
+{
+	padding:15px;
+	font-size:55px;
+	text-align:center;
+}
+
+.TG3N
+{
+	padding:15px;
+	font-size:54px;
+	text-align:center;
+}
+
+.TG3D
+{
+	padding:15px;
+	font-size:49px;
+	text-align:center;
+}
+
+.TG3S
+{
+	padding:15px;
+	font-size:48px;
+	text-align:center;
+}
+
+.TG3W
+{
+	padding:15px;
+	font-size:53px;
+	text-align:center;
+}
+
+.TG3V
+{
+	padding:15px;
+	font-size:64px;
+	text-align:center;
+}
